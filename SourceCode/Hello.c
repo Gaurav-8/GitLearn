@@ -11,3 +11,8 @@ void hello() {
 int main() {
 	hello();
 }
+
+void product() {
+	printf("Return Product");
+	printf("Return Product");
+}
