@@ -9,8 +9,9 @@ void hello() {
 }
 
 void emptyFunctionStub() {
-	//Empty Function
 	//Something is empty
+	// World is Boring
+	// Life is Empty
 }
 
 int main() {
