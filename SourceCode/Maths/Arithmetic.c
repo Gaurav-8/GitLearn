@@ -18,3 +18,7 @@ int div(int x, int y) {
 int sq(int x) {
 	return x * x;
 }
+
+int somecodeInTesting() {
+	
+}
