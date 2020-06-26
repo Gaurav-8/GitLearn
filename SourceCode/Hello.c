@@ -8,6 +8,10 @@ void hello() {
 	printf("Hello World");
 }
 
+void someUselessFunction() {
+
+}
+
 int main() {
 	hello();
 }
